@@ -1,13 +1,5 @@
 Here's a challenge for you!
 
-We are actively looking for DevOps specialists to join our IT team.
-
-Goal of this challenge is to provide potential candidates with a learning experience using Flinks’ technology stack. It also helps Flinks evaluate current technical knowledge as well as a candidate’s approach to problem solving.
-
-Once you are done please share the GitHub url with us at challenge@flinks.io
-
-Have fun!
-
 Technologies:
 
 Container Orchestration - Kubernetes
